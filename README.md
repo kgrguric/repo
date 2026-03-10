@@ -9,7 +9,7 @@
 
 ## 0) Clone repository
 ```bash
-git clone 
+git clone <URL REPO>
 ```
 ---
 
